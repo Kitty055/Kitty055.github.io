@@ -1,0 +1,46 @@
+body {background-color: black;
+    color: white;}
+
+.Inhalt {
+    margin-top: 0px;
+}
+
+.headgrafik {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.profilbild_image {
+    border-radius: 50px;
+    margin-bottom: 5px;
+}
+
+.artikel-metadata {
+    margin-top: 20px;
+}
+
+.artikelbild {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.bildunterschrift {
+    margin-top: 10px;
+}
+
+.ersterartikel {
+    margin-top: 80px;
+}
+
+#antwort {
+    margin-top: 10px;
+}
+
+.navbar-inverse {
+    background-image: linear-gradient(to bottom, black 0%, #6d6d6d 100%);
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .active > a {
+    background-image: linear-gradient(to bottom, black 0%, #aaaaaa 100%);
+}
